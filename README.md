@@ -190,6 +190,11 @@ No particular order, please don't read anything into the ordering
 - Gyan Kapur  - [site](http://surface.vc), [twitter](https://twitter.com/KapurGyan)
   
   > I run a fund that is focused on B2B software including developer tools, data infrastructure, and DevOps.  Fairly polyglot in the developer space, started writing code actively (Perl) back in 2000 when I was 13 and have build some distributed pricing systems for synthetic credit and currency exotic options in the early 2010s when we called the cloud "the grid."
+
+- Thomas Cuvelier - [email](mailto:thomas@alven.co)
+
+  > I invest in pre-seed & seed stage developer and data tooling companies at Alven (Grafbase, Algolia, Dataiku, etc.) and selectively in web3 devtools (i.e. NFTport). I started writing code for trading desks back in 2005 and have been building internal data tooling for asset managers since then. I also angel invest $5-$25k cheques in technologies that excite me and mostly support the European ecosystem.
+
   
 ## Angel Alums
 
